@@ -6,3 +6,6 @@ A Python-based web scraper for extracting job listings.
 
 - Python
 - BeautifulSoup
+- Pandas
+- CSV
+- datetime
